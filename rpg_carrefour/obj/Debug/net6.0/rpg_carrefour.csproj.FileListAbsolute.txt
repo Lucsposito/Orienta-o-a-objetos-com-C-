@@ -1,0 +1,15 @@
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\bin\Debug\net6.0\rpg_carrefour.exe
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\bin\Debug\net6.0\rpg_carrefour.deps.json
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\bin\Debug\net6.0\rpg_carrefour.runtimeconfig.json
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\bin\Debug\net6.0\rpg_carrefour.dll
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\bin\Debug\net6.0\rpg_carrefour.pdb
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.csproj.AssemblyReference.cache
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.AssemblyInfoInputs.cache
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.AssemblyInfo.cs
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.dll
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\refint\rpg_carrefour.dll
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.pdb
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\rpg_carrefour.genruntimeconfig.cache
+C:\Users\Luciana\rpg_dio_carrefour\rpg_carrefour\obj\Debug\net6.0\ref\rpg_carrefour.dll
